@@ -11,7 +11,7 @@ Here's `one.mdx`:
 
 import { Button } from "../components/blue-button";
 
-<Text />
+<Button />
 ```
 
 And `two.mdx`:
